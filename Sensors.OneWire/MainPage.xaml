@@ -1,0 +1,22 @@
+﻿<Page x:Class="Sensors.OneWire.MainPage"
+                     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                     xmlns:local="using:Sensors.OneWire"
+                     xmlns:common="using:Sensors.OneWire.Common"
+                     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                     mc:Ignorable="d"
+                     RequestedTheme="Dark" Height="157.746" Width="330.704">
+
+    
+
+    <Canvas Background="Black" Margin="0,0,9.667,9.667">
+
+
+        <TextBlock Text="IoT Temperature and Humidity" Canvas.Left="68" Canvas.Top="62"></TextBlock>
+
+
+    </Canvas>
+</Page>
+
+	
